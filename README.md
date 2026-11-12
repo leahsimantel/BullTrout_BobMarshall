@@ -46,7 +46,7 @@ Download the three Appendix S6 shapefiles from the [USDA Forest Service Revised 
 ## Elevation
 
 - **Public download:** [USGS The National Map Downloader](https://apps.nationalmap.gov/downloader/). Select **Elevation Products (3DEP)** and **1/3 arc-second DEM** for approximately 10 m elevation data covering the South Fork Flathead River basin.
-- **Script input:** `South_Fork_Flathead_DEM.tif`, the project’s analysis-ready GeoTIFF. Use the original project GeoTIFF to match the raster extent and grid used in the analysis. The exact source tile IDs and processing steps are undocumented here.
+- **Script input:** `South_Fork_Flathead_DEM.tif`, the project’s analysis-ready GeoTIFF. 
 
 ## File setup
 
