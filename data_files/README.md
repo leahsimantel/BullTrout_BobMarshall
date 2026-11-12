@@ -1,4 +1,4 @@
-| Input workbook | What the script uses it for |
+| Input workbook | What the Table S1 script uses it for |
 |---|---|
 | [Simantel_eDNA_Results_Nov.29.2023_postQAQC.xlsx](<C:/Users/leahs/OneDrive/Documents/U_of_M/Masters_Project/Field_Data/2023/2023_eDNA_results/Simantel_eDNA_Results_Nov.29.2023_postQAQC.xlsx>) | 2023 lab records from the `Collection and Extraction` and `qPCR` tabs |
 | [2023_field_data_eDNA_results.xlsx](<C:/Users/leahs/OneDrive/Documents/U_of_M/Masters_Project/Field_Data/2023/2023_eDNA_results/2023_field_data_eDNA_results.xlsx>) | 2023 field sample list and results from the first tab |
