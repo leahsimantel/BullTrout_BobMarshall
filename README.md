@@ -1,6 +1,6 @@
 # Chapter 2 Public Spatial Data
 
-This README documents the public spatial data sources for the Chapter 2 Data Exploration R script. The filenames below identify the files used in the analysis. Some are project-prepared versions of the public downloads.
+This README documents the public spatial data sources for the Chapter 2 Analysis R script. The filenames below identify the files used in the analysis. Some are project-prepared versions of the public downloads.
 
 ## NHDPlus stream flowlines
 
