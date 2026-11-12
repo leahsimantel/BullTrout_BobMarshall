@@ -52,4 +52,4 @@ Download the three Appendix S6 shapefiles from the [USDA Forest Service Revised 
 
 Extract the download archives before running the script. Keep each shapefile’s `.shp`, `.shx`, `.dbf`, and `.prj` together, plus `.cpg` where provided. Keep the `.gdb` directory intact.
 
-Update the input paths in the R script to match the locations of your local copies. The complete analysis also requires the project’s reach-pixel CSVs, field and eDNA workbooks, and barrier layer.
+Update the input paths in the R script to match the locations of your local copies. The complete analysis also requires the project’s reach-pixel CSVs and barrier layer (see 'data_files' folder and 'shapefiles' folder). Additionally, to recreate this script you will need the field and eDNA workbooks, which can be found in the release dated 11/11/2026.
